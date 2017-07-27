@@ -7,6 +7,6 @@ id:
     create:
       success: "Episode berhasil dibuat!"
     update:
-      success: "Episode berhasil diupdate!."
+      success: "Episode berhasil diupdate!"
     destroy:
       success: "Episode telah dihapus!"
