@@ -1,1 +1,4 @@
 id:
+  chapter_images:
+    destroy:
+      success: "Gambar berhasil dihapus."
