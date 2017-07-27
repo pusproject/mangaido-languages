@@ -1,1 +1,12 @@
 id:
+  episodes:
+    show:
+      episode_not_published_error: "Episode belum diterbitkan."
+      novel_not_published_error: "Novel belum diterbitkan."
+      episode_not_published_info: "Novel belum diterbitkan."
+    create:
+      success: "Episode berhasil dibuat!"
+    update:
+      success: "Episode berhasil diupdate!."
+    destroy:
+      success: "Episode telah dihapus!"
