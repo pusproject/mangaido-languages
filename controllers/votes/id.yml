@@ -1,1 +1,4 @@
 id:
+  votes:
+    create:
+      error: "Tak dapat memilih elemen :("
