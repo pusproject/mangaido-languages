@@ -1,1 +1,8 @@
 id:
+  chapter_images:
+    move_to_trash:
+      success: "Gambar berhasil dipindahkan ke tempat sampah."
+      error: "Terjadi kesalahan ketika memmindahkan gambar ke tempat sampah. silahkan coba beberapa saat lagi."
+    remove_from_trash:
+      success: "Gambar berhasil dibuang dari tempat sampah."
+      error: "Terjadi kesalahan ketika membuang gambar dari tempat sampah. silahkan coba beberapa saat lagi."
