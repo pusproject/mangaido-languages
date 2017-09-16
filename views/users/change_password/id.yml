@@ -1,1 +1,5 @@
 id:
+  users:
+    change_password:
+      meta_title: "Ubah password"
+      title: "Ubah password"
